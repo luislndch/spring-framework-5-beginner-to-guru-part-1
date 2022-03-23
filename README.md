@@ -34,3 +34,4 @@ You will see how modern Spring Framework development is done by leveraging the f
 - Section 6 | External Properties with Spring 
 
 [Next Part of The Course](https://github.com/jsbsmp/spring-framework-5-beginner-to-guru-part-2)
+I created this newline.
